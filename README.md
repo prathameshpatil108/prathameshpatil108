@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/pratham_108" target="blank"><img src="https://img.shields.io/twitter/follow/pratham_108?logo=twitter&style=for-the-badge" alt="pratham_108" /></a> </p>
 
-- 🌱 I’m currently learning **KodNest Information Technology Company in Internship**
+- 🌱 I’m currently learning **KodNest Information Technology  in Internship**
 
 - 💬 Ask me about **Good vibes**
  
